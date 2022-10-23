@@ -1,0 +1,13 @@
+{
+    "botToken": "BOT TOKEN",
+    "logs_channel_id": "TOKENS & LOGS CANNEL ID",
+
+    "prefix": "*",
+    "command_name": "start",
+    
+    "give_role": true,
+    "role_name": "Role Name",
+
+    "mass_dm": 3,
+    "message": "Message that dm to every friend&dm ( if mass dm 3 )"
+}

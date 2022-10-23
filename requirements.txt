@@ -1,0 +1,8 @@
+nextcord
+cryptography
+websockets
+requests
+urllib3
+pystyle
+pycryptodome
+httpx
