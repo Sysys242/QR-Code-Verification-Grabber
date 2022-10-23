@@ -22,10 +22,10 @@
 
 => Config:
     ```prefix => bot prefix
-    command_name => command to send the verification embed
-    give_role => If you want to when a people got grabbed, it give her a role
-    rona_name => if give_role is true, it will give the role with the name
-    mass_dm => Mass dm with people acc : 0=None 1= Current person's private chat 2=All user friend 3=All friend & private chat```
+    <br>command_name => command to send the verification embed
+    <br>give_role => If you want to when a people got grabbed, it give her a role
+    <br>rona_name => if give_role is true, it will give the role with the name
+    <br>mass_dm => Mass dm with people acc : 0=None 1= Current person's private chat 2=All user friend 3=All friend & private chat```
 
 => open a cmd in the folder and do "pip install -r requirements.txt"
 
